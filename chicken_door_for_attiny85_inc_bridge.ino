@@ -55,3 +55,4 @@ digitalWrite(controlPin2, LOW);
 //serialprint is working, as is sensorpin
 //does not change direction when values change
 //continious cycle-need to stop until a change occurs
+//cut-off switch before input to bridge.
